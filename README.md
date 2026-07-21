@@ -25,7 +25,9 @@ cmd或终端中运行python siren-downloader.py
 ## 小趣事:
 开发的时候发现其他人的都有发布时间保存,然后我就找了找官网,没找到
 
-结果最后在https://monster-siren.hypergryph.com/api/album/3884/data这种api里面json返回的图片URL里发现了时间
+结果最后在https://monster-siren.hypergryph.com/api/album/3884/data
+
+这种api里面json返回的图片URL里发现了时间
 
 也是小彩蛋吗
 
