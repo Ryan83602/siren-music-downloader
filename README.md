@@ -1,4 +1,4 @@
-# siren-music-downloader
+# 塞壬唱片下载
 ## 轻量Python脚本
 ### 使用方法：
 1.下载siren-downloader.py
